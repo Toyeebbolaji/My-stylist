@@ -1,0 +1,119 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    background: url("/images/Background 3.png") rgb(146, 139, 144);
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.Logo {
+     :hover {
+        cursor: pointer;
+    }
+    margin-top: 14px;
+    margin-left: 67px;
+    font-size: 40px;
+    font-family: pacifico;
+    color: #FFA900;
+    h1 {
+        position: absolute;
+        font-size: 25px;
+        top: 20px;
+        font-family: pacifico;
+        color: #ffffff;
+        margin-left: 200px;
+        margin-top: px;
+    }
+}
+
+.links a {
+    margin-right: 90px;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.link {
+    float: right;
+    font-size: 25px;
+    font-family: poppins;
+    text-decoration: none;
+     :hover {
+        cursor: pointer;
+    }
+}
+
+.content {
+    margin-top: 230px;
+    margin-left: 220px;
+    h2 {
+        margin-left: 100px;
+        margin-bottom: -80px;
+        padding: 0px;
+        font-family: nunito;
+        font-size: 100px;
+        color: #ffffff;
+    }
+    p {
+        font-size: 40px;
+        font-family: nunito;
+        color: #ffffff;
+        margin-top: 100px;
+        margin-left: 175px;
+        padding: px;
+    }
+}
+
+.click {
+    a:link,
+    a:visited {
+        margin-left: 0px;
+        border: 3px solid #DF9B17;
+        color: #ffffff;
+        padding: 12px 85px;
+        font-size: 35px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    a:hover,
+    a:active {
+        background-color: #EFAE2E;
+    }
+}
+
+.click1 {
+    a:link,
+    a:visited {
+        margin-left: 80px;
+        border: 3px solid #F5F5F5;
+        color: #DF9B17;
+        padding: 12px 70px;
+        font-size: 35px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    a:hover,
+    a:active {
+        background-color: #E4E4E4;
+    }
+}
+
+.line {
+    position: absolute;
+    top: 170px;
+    left: 900px;
+}
+
+.content1 {
+    line-height: 20px;
+    position: absolute;
+    top: 270px;
+    left: 1070px;
+    padding-right: 0px;
+    font-size: 90px;
+    font-family: nunito;
+    color: #ffffff;
+}

@@ -1,0 +1,148 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#background {
+  min-height: 100vh;
+  background: url("/images/Background 7.jpg") #6e686c;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.Logo {
+  margin-top: 14px;
+  margin-left: 67px;
+  font-size: 40px;
+  font-family: pacifico;
+  color: #FFA900;
+}
+
+.Logo :hover {
+  cursor: pointer;
+}
+
+.Logo h1 {
+  position: absolute;
+  font-size: 25px;
+  top: 20px;
+  font-family: pacifico;
+  color: #ffffff;
+  margin-left: 200px;
+  margin-top: px;
+}
+
+.links a {
+  margin-right: 90px;
+  padding: 3px;
+  color: white;
+  text-decoration: none;
+}
+
+.link {
+  float: right;
+  font-size: 25px;
+  font-family: poppins;
+  text-decoration: none;
+}
+
+.link :hover {
+  cursor: pointer;
+}
+
+.content h1 {
+  margin-top: 260px;
+  font-size: 90px;
+  text-align: center;
+}
+
+.content p {
+  margin-top: -30px;
+  text-align: center;
+}
+
+/*Styling for main*/
+#background1 {
+  min-height: 100vh;
+  background: url("/images/Background 2.png") rgba(189, 189, 189, 0.959);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.content {
+  margin-top: 220px;
+  line-height: px;
+  text-align: center;
+  color: #ffffff;
+  font-family: nunito;
+  font-size: 28px;
+}
+
+.content2 {
+  position: absolute;
+  top: 850px;
+  left: 450px;
+  font-size: 30px;
+  font-style: poppins;
+  color: white;
+  line-height: 6px;
+}
+
+h2 {
+  margin-top: 80px;
+  padding: 30px;
+  font-family: nunito;
+  font-size: 50px;
+  color: #DF9B17;
+}
+
+input {
+  font-size: 40px;
+  border: 2px solid #DF9B17;
+  height: 60px;
+  width: 900px;
+  margin-left: 0px;
+  margin-bottom: 5px;
+  outline: none;
+  font-size: 25px;
+  color: black;
+  padding: px;
+}
+
+.click a:link,
+.click a:visited {
+  margin-top: 20px;
+  margin-left: 0px;
+  background-color: #DF9B17;
+  border: 1px solid #F5F5F5;
+  color: #ffffff;
+  padding: 30px 65px;
+  font-size: 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.click a:hover,
+.click a:active {
+  background-color: #FFA900;
+}
+
+.click1 a:link,
+.click1 a:visited {
+  margin-left: 70px;
+  background-color: #F5F5F5;
+  border: 1px solid #DF9B17;
+  color: #DF9B17;
+  padding: 30px 65px;
+  font-size: 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.click1 a:hover,
+.click1 a:active {
+  background-color: #E4E4E4;
+}
+/*# sourceMappingURL=Styling.css.map */

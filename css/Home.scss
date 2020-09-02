@@ -1,0 +1,132 @@
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    #Background {
+        height: 680px;
+        background: url("/images/Background1.png") 0% 0% no-repeat padding-box rgb(146, 139, 144);
+        background-size: cover;
+        background-blend-mode: multiply;
+    }
+    
+    .Logo {
+         :hover {
+            cursor: pointer;
+        }
+        margin-top: 14px;
+        margin-left: 67px;
+        font-size: 40px;
+        font-family: pacifico;
+        color: #FFA900;
+        h1 {
+            position: absolute;
+            font-size: 25px;
+            top: 20px;
+            font-family: pacifico;
+            color: #ffffff;
+            margin-left: 200px;
+            margin-top: px;
+        }
+    }
+    
+    .links a {
+        margin-right: 90px;
+        padding: 5px;
+        color: white;
+        text-decoration: none;
+    }
+    
+    .link {
+        float: right;
+        font-size: 25px;
+        font-family: poppins;
+        text-decoration: none;
+         :hover {
+            cursor: pointer;
+        }
+    }
+    /*Styling for main*/
+    
+    .content {
+        margin-top: 225px;
+        line-height: px;
+        text-align: center;
+        color: #ffffff;
+        font-family: nunito;
+        font-size: 28px;
+        h1 {
+            margin-top: 20px;
+            font-size: 70px;
+            text-align: center;
+        }
+        p {
+            margin-top: -30px;
+            text-align: center;
+        }
+    }
+    
+    #container {
+        position: absolute;
+        margin-top: 0px;
+        width: 1775px;
+        height: 160px;
+        background-color: #F5F5F5;
+        opacity: 0.9;
+    }
+    
+    .checkbox {
+         :hover {
+            cursor: pointer;
+        }
+        float: left;
+        margin-top: 85px;
+        margin-left: -470px;
+        zoom: 1.3;
+        span {
+            position: absolute;
+            margin-top: 3px;
+            left: 597px;
+            font-size: 10px;
+            font-family: nunito;
+            color: #DF9B17;
+            font-size: 13px;
+        }
+    }
+    
+    input[type=text] {
+        padding: 15px;
+        font-size: 24px;
+        color: #533F18;
+        outline-color: #DF9B17;
+        border: 2px solid #DF9B17;
+        float: left;
+        margin-top: 45px;
+        margin-left: 438px;
+        width: 50%;
+        background: #f1f1f1;
+    }
+    
+    button {
+        position: absolute;
+        top: 45px;
+        right: 416px;
+        float: right;
+        height: 60px;
+        width: 250px;
+        padding: 10px;
+        background: #DF9B17;
+        color: white;
+        font-size: 17px;
+        outline-color: #DF9B17;
+        border: 1px solid #DF9B17;
+        border-radius: none;
+        border-left: none;
+        font-size: 23px;
+        font-family: nunito;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background: #FFA900;
+    }
