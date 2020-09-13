@@ -70,7 +70,7 @@ body {
 }
 
 .content {
-  margin-top: 220px;
+  margin-top: 320px;
   line-height: px;
   text-align: center;
   color: #ffffff;
@@ -80,12 +80,12 @@ body {
 
 .content2 {
   position: absolute;
-  top: 850px;
-  left: 450px;
+  top: 970px;
+  left: 530px;
   font-size: 30px;
   font-style: poppins;
   color: white;
-  line-height: 6px;
+  line-height: 10px;
 }
 
 h2 {
@@ -100,9 +100,9 @@ input {
   font-size: 40px;
   border: 2px solid #DF9B17;
   height: 60px;
-  width: 900px;
+  width: 990px;
   margin-left: 0px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   outline: none;
   font-size: 25px;
   color: black;

@@ -48,7 +48,7 @@ body {
 }
 
 .content {
-  margin-top: 230px;
+  margin-top: 260px;
   margin-left: 220px;
 }
 
@@ -106,17 +106,17 @@ body {
 
 .line {
   position: absolute;
-  top: 170px;
-  left: 900px;
+  top: 190px;
+  left: 1000px;
 }
 
 .content1 {
   line-height: 20px;
   position: absolute;
-  top: 270px;
-  left: 1070px;
+  top: 290px;
+  left: 1200px;
   padding-right: 0px;
-  font-size: 90px;
+  font-size: 100px;
   font-family: nunito;
   color: #ffffff;
 }
